@@ -1,2 +1,7 @@
 ﻿  main.cpp
-  chapter11.vcxproj -> C:\Users\salam\source\repos\chapter11\x64\Debug\chapter11.exe
+C:\Users\salama\Documents\GitHub\learncpp\chapter11\main.cpp(47,25): error C2338: static_assert failed: '(N >= 0) && "factorial(): N must be non-negative."'
+      C:\Users\salama\Documents\GitHub\learncpp\chapter11\main.cpp(47,25):
+      the template instantiation context (the oldest one first) is
+          C:\Users\salama\Documents\GitHub\learncpp\chapter11\main.cpp(62,2):
+          see reference to function template instantiation 'int factorial<-3>(void)' being compiled
+  
