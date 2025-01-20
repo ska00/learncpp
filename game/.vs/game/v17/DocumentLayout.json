@@ -1,21 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\salama\\source\\repos\\game\\",
+  "WorkspaceRootPath": "C:\\Users\\salama\\Documents\\GitHub\\learncpp\\game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F49A5EF-64ED-4B67-8455-BFD87CEACB28}|game.vcxproj|C:\\Users\\salama\\source\\repos\\game\\io.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4F49A5EF-64ED-4B67-8455-BFD87CEACB28}|game.vcxproj|C:\\Users\\salama\\Documents\\GitHub\\learncpp\\game\\io.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4F49A5EF-64ED-4B67-8455-BFD87CEACB28}|game.vcxproj|solutionrelative:io.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F49A5EF-64ED-4B67-8455-BFD87CEACB28}|game.vcxproj|C:\\Users\\salama\\source\\repos\\game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4F49A5EF-64ED-4B67-8455-BFD87CEACB28}|game.vcxproj|C:\\Users\\salama\\Documents\\GitHub\\learncpp\\game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4F49A5EF-64ED-4B67-8455-BFD87CEACB28}|game.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F49A5EF-64ED-4B67-8455-BFD87CEACB28}|game.vcxproj|C:\\Users\\salama\\source\\repos\\game\\Random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F49A5EF-64ED-4B67-8455-BFD87CEACB28}|game.vcxproj|solutionrelative:Random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F49A5EF-64ED-4B67-8455-BFD87CEACB28}|game.vcxproj|C:\\Users\\salama\\source\\repos\\game\\Io.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4F49A5EF-64ED-4B67-8455-BFD87CEACB28}|game.vcxproj|C:\\Users\\salama\\Documents\\GitHub\\learncpp\\game\\Io.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4F49A5EF-64ED-4B67-8455-BFD87CEACB28}|game.vcxproj|solutionrelative:Io.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -30,13 +26,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "io.h",
-              "DocumentMoniker": "C:\\Users\\salama\\source\\repos\\game\\io.h",
+              "DocumentMoniker": "C:\\Users\\salama\\Documents\\GitHub\\learncpp\\game\\io.h",
               "RelativeDocumentMoniker": "io.h",
-              "ToolTip": "C:\\Users\\salama\\source\\repos\\game\\io.h",
+              "ToolTip": "C:\\Users\\salama\\Documents\\GitHub\\learncpp\\game\\io.h",
               "RelativeToolTip": "io.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-11T23:31:20.041Z"
             },
@@ -44,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "io.cpp",
-              "DocumentMoniker": "C:\\Users\\salama\\source\\repos\\game\\io.cpp",
+              "DocumentMoniker": "C:\\Users\\salama\\Documents\\GitHub\\learncpp\\game\\io.cpp",
               "RelativeDocumentMoniker": "io.cpp",
-              "ToolTip": "C:\\Users\\salama\\source\\repos\\game\\io.cpp",
+              "ToolTip": "C:\\Users\\salama\\Documents\\GitHub\\learncpp\\game\\io.cpp",
               "RelativeToolTip": "io.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-11T23:29:46.909Z",
               "EditorCaption": ""
@@ -57,26 +53,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\salama\\source\\repos\\game\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\salama\\Documents\\GitHub\\learncpp\\game\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\salama\\source\\repos\\game\\main.cpp",
+              "ToolTip": "C:\\Users\\salama\\Documents\\GitHub\\learncpp\\game\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-11T22:51:10.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Random.h",
-              "DocumentMoniker": "C:\\Users\\salama\\source\\repos\\game\\Random.h",
-              "RelativeDocumentMoniker": "Random.h",
-              "ToolTip": "C:\\Users\\salama\\source\\repos\\game\\Random.h",
-              "RelativeToolTip": "Random.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-11T22:51:25.643Z",
               "EditorCaption": ""
             }
           ]

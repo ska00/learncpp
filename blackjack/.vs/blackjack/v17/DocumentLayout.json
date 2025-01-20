@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\salama\\source\\repos\\blackjack\\",
+  "WorkspaceRootPath": "C:\\Users\\salama\\Documents\\GitHub\\learncpp\\blackjack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{406649E9-7BE3-4572-99CA-C9F12BD62FAB}|blackjack.vcxproj|C:\\Users\\salama\\source\\repos\\blackjack\\io.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{406649E9-7BE3-4572-99CA-C9F12BD62FAB}|blackjack.vcxproj|C:\\Users\\salama\\Documents\\GitHub\\learncpp\\blackjack\\io.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{406649E9-7BE3-4572-99CA-C9F12BD62FAB}|blackjack.vcxproj|solutionrelative:io.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{406649E9-7BE3-4572-99CA-C9F12BD62FAB}|blackjack.vcxproj|C:\\Users\\salama\\source\\repos\\blackjack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{406649E9-7BE3-4572-99CA-C9F12BD62FAB}|blackjack.vcxproj|C:\\Users\\salama\\Documents\\GitHub\\learncpp\\blackjack\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{406649E9-7BE3-4572-99CA-C9F12BD62FAB}|blackjack.vcxproj|solutionrelative:Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406649E9-7BE3-4572-99CA-C9F12BD62FAB}|blackjack.vcxproj|C:\\Users\\salama\\Documents\\GitHub\\learncpp\\blackjack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{406649E9-7BE3-4572-99CA-C9F12BD62FAB}|blackjack.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{406649E9-7BE3-4572-99CA-C9F12BD62FAB}|blackjack.vcxproj|C:\\Users\\salama\\source\\repos\\blackjack\\Io.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{406649E9-7BE3-4572-99CA-C9F12BD62FAB}|blackjack.vcxproj|C:\\Users\\salama\\Documents\\GitHub\\learncpp\\blackjack\\Io.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{406649E9-7BE3-4572-99CA-C9F12BD62FAB}|blackjack.vcxproj|solutionrelative:Io.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -22,15 +26,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Input.h",
+              "DocumentMoniker": "C:\\Users\\salama\\Documents\\GitHub\\learncpp\\blackjack\\Input.h",
+              "RelativeDocumentMoniker": "Input.h",
+              "ToolTip": "C:\\Users\\salama\\Documents\\GitHub\\learncpp\\blackjack\\Input.h",
+              "RelativeToolTip": "Input.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-19T18:40:30.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Io.h",
-              "DocumentMoniker": "C:\\Users\\salama\\source\\repos\\blackjack\\Io.h",
+              "DocumentMoniker": "C:\\Users\\salama\\Documents\\GitHub\\learncpp\\blackjack\\Io.h",
               "RelativeDocumentMoniker": "Io.h",
-              "ToolTip": "C:\\Users\\salama\\source\\repos\\blackjack\\Io.h",
+              "ToolTip": "C:\\Users\\salama\\Documents\\GitHub\\learncpp\\blackjack\\Io.h",
               "RelativeToolTip": "Io.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -40,27 +57,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "io.cpp",
-              "DocumentMoniker": "C:\\Users\\salama\\source\\repos\\blackjack\\io.cpp",
+              "DocumentMoniker": "C:\\Users\\salama\\Documents\\GitHub\\learncpp\\blackjack\\io.cpp",
               "RelativeDocumentMoniker": "io.cpp",
-              "ToolTip": "C:\\Users\\salama\\source\\repos\\blackjack\\io.cpp",
+              "ToolTip": "C:\\Users\\salama\\Documents\\GitHub\\learncpp\\blackjack\\io.cpp",
               "RelativeToolTip": "io.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-14T02:05:39.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\salama\\source\\repos\\blackjack\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\salama\\Documents\\GitHub\\learncpp\\blackjack\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\salama\\source\\repos\\blackjack\\main.cpp",
+              "ToolTip": "C:\\Users\\salama\\Documents\\GitHub\\learncpp\\blackjack\\main.cpp",
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-12T16:38:14.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T16:38:14.777Z"
             }
           ]
         }
